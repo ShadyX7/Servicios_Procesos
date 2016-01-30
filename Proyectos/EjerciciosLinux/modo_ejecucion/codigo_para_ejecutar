@@ -1,0 +1,15 @@
+1)
+
+gcc practicaFork.c -o ejemploFork
+
+//donde "practicaFork.c" es el nombre de nuestro fichero de ejecucion
+
+//donde "ejemploFork" es el nombre que le asignamos a nuestro fichero para que se ejecute
+
+2)
+
+./practicaFork
+
+//Lanzamos el fichero y se ejecuta
+
+
